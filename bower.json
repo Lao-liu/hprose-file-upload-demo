@@ -1,0 +1,21 @@
+{
+  "name": "FileUpload",
+  "authors": [
+    "Laoliu <Laoliu@lanmv.com>"
+  ],
+  "description": "hprose-file-upload",
+  "main": "client.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hprose-html5": "^2.0.18"
+  }
+}
